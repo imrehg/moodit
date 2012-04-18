@@ -3,6 +3,10 @@ Moodit
 
 Change "like" into "LOVE" on all sites. Because you do.
 
+Usage
+-----
+
+Open Chrome / Settings / Extensions / Load unpacked extension / select this directory
 
 License
 -------
